@@ -16,7 +16,6 @@ On Day 2, I practiced Java programming concepts related to **arrays, strings, ma
    - Found the largest element in an array.
 
 4. **Map.java**
-   - Practiced the basics of `Map` in Java.
 
 5. **SecondLargest.java**
    - Found the second-largest element in an array.
